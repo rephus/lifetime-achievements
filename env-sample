@@ -1,0 +1,3 @@
+DB=/var/sqlite/lifetime-achievements.db
+PORT=8780
+SLACK_TOKEN=define-me
