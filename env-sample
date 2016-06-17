@@ -1,3 +1,8 @@
 DB=/var/sqlite/lifetime-achievements.db
-PORT=8780
-SLACK_TOKEN=define-me
+PORT=8280
+SLACK_TOKEN=create-slack-bot
+GOOGLE_CLIENT=create-google-oauth2-api-key
+GOOGLE_SECRET=create-google-oauth2-api-key
+GOOGLE_CALLBACK=http://your-domain/auth/callback
+GOOGLE_REFRESH_TOKEN=add-your-refresh-token-to-avoid-login-in
+CALENDAR_ID=add-google-calendar-id
